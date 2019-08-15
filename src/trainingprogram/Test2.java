@@ -20,6 +20,8 @@ public class Test2 {
 	            case 4: System.out.println("4 ");
 	            case 5: System.out.println("5 ");
 	            default: assert z < 10;
+				
+				//syso{...};
 	        }
 
 	        if ( z < 10 )
